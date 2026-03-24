@@ -476,8 +476,8 @@ async def predict(data: TransactionFeatures):
 
   🎓 *Machine Learning Engineer* | *Data Scientist*
   🐙 *GitHub: [danielCH26](https://github.com/danielCH26)*
-  🔗 *LinkedIn: [Your Profile](https://linkedin.com)*
-  📧 *danielch26@example.com*
+  🔗 *LinkedIn: [Daniel Cordoba Howard](https://www.linkedin.com/in/daniel-cordoba-howard-14472a302/)*
+  📧 *danielcordobahoward@gmail.com*
 
   <br>
 
@@ -520,6 +520,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📞 Contact
 
 For questions or collaboration opportunities, please reach out via:
-- 📧 Email: danielch26@example.com
+- 📧 Email: danielcordobahoward@gmail.com
 - 🐙 GitHub: [danielCH26](https://github.com/danielCH26)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com)
+- 💼 LinkedIn: [Daniel Cordoba Howard](https://www.linkedin.com/in/daniel-cordoba-howard-14472a302/)

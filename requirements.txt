@@ -1,0 +1,30 @@
+# Santander Neural Network Prediction - Dependencies
+# ===================================================
+# Install with: pip install -r requirements.txt
+
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# Dataset Download
+gdown>=4.5.0
+
+# Optional: Kaggle API (alternative dataset source)
+# kaggle>=1.5.0
+
+# For GPU support (CUDA 11.8)
+# Install PyTorch with CUDA support from: https://pytorch.org/get-started/locally/
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
